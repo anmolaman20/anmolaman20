@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/Anmol43768251" target="blank"><img src="https://img.shields.io/twitter/follow/Anmol-Aman?logo=twitter&style=for-the-badge" alt="anmolaman" /></a> </p>
 
-- 🌱 I’m currently learning **System Design and Python**
+<!-- - 🌱 I’m currently learning **System Design and Python** -->
 
-- 👯 I’m looking to collaborate on **open source Websites**
+<!-- - 👯 I’m looking to collaborate on **open source Websites** -->
 
-- 🤝 I’m looking for help with **System Design**
+<!-- - 🤝 I’m looking for help with **System Design** -->
 
 - 💬 Ask me about **C++, Python, System Design, Html, Css, React, Firebase and JavaScript**
 
